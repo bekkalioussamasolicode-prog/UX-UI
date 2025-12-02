@@ -1,0 +1,26 @@
+1. The page feels almost too empty
+
+* Google’s homepage is super clean, which is good — but for some people it can feel a bit too empty.
+
+* It doesn’t really guide new users on what they can search for.
+
+Improvement:
+
+* Add a small helpful hint under the search bar, like:
+ “Try searching for images, news, places, or anything else…”
+
+2. Buttons can be a bit small on phones
+
+* On mobile, the “Google Search” and “I’m Feeling Lucky” buttons are sometimes a little small, making them harder to tap.
+
+Improvement:
+
+* Make the buttons slightly larger for easier tapping.
+
+3. The search bar outline is very light
+
+* The grey border around the search bar is sometimes hard to see, especially on dim screens.
+
+ Improvement:
+
+* Use a slightly darker border so it stands out better.
